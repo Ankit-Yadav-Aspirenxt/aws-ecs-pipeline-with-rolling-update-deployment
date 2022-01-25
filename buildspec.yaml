@@ -6,7 +6,7 @@ env:
     AWS_REGION: us-east-1
     AWS_ACCOUNT_ID: 915756724282
     IMAGE_NAME: ecr-test-repo
-    CONTAINER_NAME: mycont-1
+    CONTAINER_NAME: backend-container-01
 
 
 phases:
